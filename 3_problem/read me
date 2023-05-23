@@ -1,0 +1,9 @@
+3. Write a Ruby program to create a new string which is n copies of a given string where n is a non-negative integer. Go to the editor
+
+Sample Output:
+
+a
+aa
+aaa
+aaaa
+aaaaa
